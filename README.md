@@ -1,4 +1,4 @@
-# [HN-Scraper]
+# HN-Scraper
 
 ## Description
 This project is a custom scraper for the Hacker News website. It is designed to extract news articles from multiple pages of Hacker News, filtering and sorting them based on the number of upvotes. The final output includes articles that have garnered more than 99 upvotes, providing a curated list of popular and relevant news items.
