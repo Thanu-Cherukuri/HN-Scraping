@@ -6,7 +6,7 @@ This project is a custom scraper for the Hacker News website. It is designed to 
 ## Features
 - Scrapes multiple Hacker News pages.
 - Filters articles with more than 99 upvotes.
-- Sorts articles based on upvote count.
+- Sort articles based on upvote count.
 - Utilizes BeautifulSoup for efficient HTML parsing.
 
 ## How to Use
@@ -21,7 +21,7 @@ This project is a custom scraper for the Hacker News website. It is designed to 
 - `beautifulsoup4`
 
 ## Contributing
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page] if you want to contribute.
+Contributions, issues, and feature requests are welcome. Feel free to check the issues page if you want to contribute.
 
 ## License
 [MIT License](LICENSE)
